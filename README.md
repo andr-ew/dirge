@@ -2,7 +2,9 @@
 
 ![ss](dirge.png)
 
-macOS only at the moment
+two resampling algorithms: one smooth, one jagged. run yr signal in either direction.
+
+(macOS only at the moment)
 
 # quickstart
 
